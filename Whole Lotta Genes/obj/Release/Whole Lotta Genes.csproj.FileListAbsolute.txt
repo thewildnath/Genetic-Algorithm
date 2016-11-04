@@ -1,0 +1,18 @@
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\bin\Release\Whole Lotta Genes.exe.config
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\bin\Release\Whole Lotta Genes.exe
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\bin\Release\Whole Lotta Genes.pdb
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole_Lotta_Genes.Form1.resources
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole_Lotta_Genes.Properties.Resources.resources
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole Lotta Genes.csproj.GenerateResource.Cache
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole Lotta Genes.exe
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole Lotta Genes.pdb
+C:\Users\Nathan\documents\visual studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole Lotta Genes.csprojResolveAssemblyReference.cache
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\bin\Release\Whole Lotta Genes.exe.config
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole Lotta Genes.exe
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole Lotta Genes.pdb
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\bin\Release\Whole Lotta Genes.exe
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\bin\Release\Whole Lotta Genes.pdb
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole Lotta Genes.csprojResolveAssemblyReference.cache
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole_Lotta_Genes.Form1.resources
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole_Lotta_Genes.Properties.Resources.resources
+C:\Users\natha\Documents\Visual Studio 2015\Projects\Whole Lotta Genes\Whole Lotta Genes\obj\Release\Whole Lotta Genes.csproj.GenerateResource.Cache
